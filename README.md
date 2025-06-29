@@ -56,10 +56,33 @@ cd netflix-dashboard
 python -m venv venv
 venv\Scripts\activate     # On Windows
 source venv/bin/activate # On Mac/Linux
-
+```
 # 3. Install dependencies
 pip install -r requirements.txt
 
 # 4. Run the app
 streamlit run app.py
 
+
+🛠️ To Do
+ Improve genre classification model
+
+ Add IMDb rating scraping
+
+ CI/CD pipeline with GitHub Actions
+
+ Add user login with Streamlit auth
+
+ Export sentiment & ML results
+
+🤝 Contributing
+Pull requests are welcome! If you’d like to fix a bug, suggest a feature, or add a new module — fork the repo and go ahead 🚀
+
+📜 License
+This project is open-source under the MIT License.
+
+🙋‍♀️ Maintainer
+Made with 💻 and ☕ by Mansoob E Zehra
+
+If you found this useful, consider giving it a ⭐️!
+ 
