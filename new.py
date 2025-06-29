@@ -10,6 +10,7 @@ from sklearn.metrics import classification_report, accuracy_score
 import plotly.express as px
 from sklearn.preprocessing import MultiLabelBinarizer
 from sklearn.multiclass import OneVsRestClassifier
+from textblob import TextBlob
 
 st.set_page_config(page_title="Netflix Data Dashboard", layout="wide")
 
