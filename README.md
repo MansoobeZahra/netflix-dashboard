@@ -3,6 +3,9 @@
 An interactive and intelligent **data visualization and exploration app** built with **Streamlit**, based on the Netflix dataset.  
 This dashboard helps users **analyze, filter, and visualize** Netflix content across genres, countries, ratings, and time — all with dynamic visualizations, sentiment analysis, and machine learning predictions.
 
+
+[🚀 Click here to view the Live App]([https://YOUR-APP-URL.streamlit.app](https://netflix-dashboard-5tjgztr2vc9gx7wbgrafnk.streamlit.app/))
+
 ---
 
 ## 🌟 Features
