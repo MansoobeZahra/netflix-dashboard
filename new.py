@@ -1,12 +1,9 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
-import seaborn as sns
-from wordcloud import WordCloud
-from textblob import TextBlob
+import seaborn as sns  
 from sklearn.model_selection import train_test_split
-import requests
-from bs4 import BeautifulSoup
+import requests 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report, accuracy_score
